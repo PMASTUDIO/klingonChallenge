@@ -47,4 +47,6 @@ int main() {
 	textBReport.textBVocab = Utils::JoinStrings(Utils::GetVocabularyList(textBWords));
 
 	Utils::AnswerNicely(textBReport);
+
+	getchar();
 }
