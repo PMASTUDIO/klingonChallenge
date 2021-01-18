@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Utils.cpp
+C:\Users\pganm\source\repos\Klingon\Klingon\src\Utils.cpp(90,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Generating Code...
+C:\Users\pganm\source\repos\Klingon\Klingon\src\Utils.cpp(106): warning C4715: '<lambda_7782e4aff359c15122aa1802bc998584>::operator()': not all control paths return a value
+  Klingon.vcxproj -> C:\Users\pganm\source\repos\Klingon\x64\Debug\Klingon.exe
